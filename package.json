@@ -1,5 +1,5 @@
 {
-  "name": "video-converter",
+  "name": "command-executor",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JuliaMorokina/video-converter.git"
+    "url": "git+https://github.com/JuliaMorokina/command-executor.git"
   },
   "author": "Julia Morokina",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JuliaMorokina/video-converter/issues"
+    "url": "https://github.com/JuliaMorokina/command-executor/issues"
   },
-  "homepage": "https://github.com/JuliaMorokina/video-converter#readme",
+  "homepage": "https://github.com/JuliaMorokina/command-executor#readme",
   "dependencies": {
-    "typescript": "^5.3.3"
+    "inquirer": "^9.2.14"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
   }
 }
