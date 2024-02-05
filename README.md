@@ -5,7 +5,7 @@
   `npm i -g typescript`
 
 # Build
-`tsc`
+- запустить команду `tsc` в корне проекта
 
 # Запуск 
-`node dist/app.js`
+- запустить команду `node dist/app.js` в корне проекта
